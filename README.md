@@ -9,7 +9,7 @@ at the end of the URL with (/<yourkeyword>).
 
 ## My process
 
-Used the following technologies: ####mongodb (####mongoose ) - to perform CRUD operations in the database, connected to ####mongodbatlas,
+Used the following technologies: ###mongodb (####mongoose ) - to perform CRUD operations in the database, connected to ####mongodbatlas,
 used EJS templates and layouts - to dynamically change markup using EJS tags, ####expressjs routing - how an application’s endpoints (URLs)
 respond to client's requests, and its routing parameters - to capture the values specified at their position in the URL and render pages according to them,
 body-parser - to parse post requests, Lodash library - to capitalize values in the URL, ####git, ####github for version control and etc...
