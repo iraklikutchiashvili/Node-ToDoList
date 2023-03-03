@@ -4,7 +4,7 @@
 ## About
 
 To Do list application where you can add tasks, delete them, and create your own lists just by replacing (/personal)
-at the end of the URL with (/<yourkeyword>).
+at the end of the URL with (/yourkeyword).
 
 
 ## My process
@@ -21,6 +21,7 @@ body-parser - to parse post requests, Lodash library - to capitalize values in t
 * MongoDb
 * Ejs
 * CSS
+* HTML
 
 ### Links
 
